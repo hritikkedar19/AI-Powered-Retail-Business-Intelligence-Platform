@@ -1,7 +1,5 @@
 # AI-Powered Retail Business Intelligence Platform
 
-A resume-ready end-to-end Data Analytics + Machine Learning project for retail business decision-making.
-
 ## Features
 
 - Sales analytics dashboard
