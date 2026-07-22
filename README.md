@@ -456,9 +456,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# 👨‍💻 Author
 
-**Hritik Kedar**
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
 
