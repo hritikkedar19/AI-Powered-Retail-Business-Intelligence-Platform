@@ -431,23 +431,6 @@ http://localhost:8501
 * Report Generation
 
 ---
-
-# 🔮 Future Enhancements
-
-* Deep Learning sales forecasting (LSTM)
-* Real-time streaming dashboard
-* Power BI integration
-* REST API using FastAPI
-* Docker deployment
-* Cloud deployment (AWS/Azure/GCP)
-* Role-based authentication
-* Email alert system
-* Automated report scheduling
-* Generative AI business assistant
-* Voice-enabled analytics
-* Multi-store analytics
-* Supplier performance dashboard
-
 ---
 
 
